@@ -2,7 +2,7 @@
 
 <h3>WELCOME TO TIGER VIRUS TOOL</h3>
 
-<h4> Tiger Virus Created By ASHIK K I </h4>
+<h4> Tiger Virus Created By RZ </h4>
 
 *Best Virus Making Tool To Make Virus Applications and Messeges For Whatsapp And Other Chat Applications
 
@@ -12,9 +12,9 @@
 
 *For more details see my youtube channel 
 
-*Click :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+*Click :- [The Devil Tigers](httal)
 
-<h3>How to run this Tool "Tiger Virus"</h3>
+<h3>How to run this Tool "Tiger Virus"</>
 
 <h4>Commands</h4>
 
